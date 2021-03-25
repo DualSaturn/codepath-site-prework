@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](assets/pre-work-demo.gif)
+![](./assets/pre-work-demo.gif)
 
 ## Reflection Questions
 
